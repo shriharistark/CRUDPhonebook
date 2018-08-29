@@ -7,16 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffbb3ae8-15f4-4ac6-9dc6-1a0881d75044" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssuedetailedStyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issuedetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/viewissuestyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/GAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/GAuth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/CommentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/CommentsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/CommentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/CommentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/IssueController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/IssueController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issues.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IssueReporter/src/main/webapp/WEB-INF/appengine-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IssueReporter/src/main/webapp/WEB-INF/appengine-web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../IssueReporter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,43 +26,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html">
+      <file leaf-file-name="IssueController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/IssueController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="34" column="6" lean-forward="true" selection-start-line="11" selection-end-line="34" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IssuedetailedStyles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssuedetailedStyles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="114" column="28" selection-start-line="114" selection-start-column="28" selection-end-line="114" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="issuedetail.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issuedetail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="99" column="57" selection-start-line="99" selection-start-column="57" selection-end-line="99" selection-end-column="57" />
+            <state relative-caret-position="147">
+              <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1436#1437#0" expanded="true" />
+                <element signature="e#1461#1462#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viewissuestyles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/viewissuestyles.css">
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="195">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -70,8 +77,8 @@
       <file leaf-file-name="IssueStyles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="266">
+              <caret line="224" column="21" selection-start-line="224" selection-start-column="21" selection-end-line="224" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -79,38 +86,68 @@
       <file leaf-file-name="issuescript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="63" column="42" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="42" />
+            <state relative-caret-position="124">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentsController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/CommentsController.java">
+      <file leaf-file-name="AuthenticationController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/AuthenticationController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommentDAOService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="227">
+              <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2941#2972#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java">
+      <file leaf-file-name="AuthObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Auth/Google/AuthObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+            <state relative-caret-position="-1380">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <folding>
+                <element signature="e#2585#2586#0" expanded="true" />
+                <element signature="e#2621#2622#0" expanded="true" />
+                <element signature="e#3989#3990#0" expanded="true" />
+                <element signature="e#4022#4023#0" expanded="true" />
+                <element signature="e#4074#4075#0" expanded="true" />
+                <element signature="e#4118#4119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/Authenticate/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthObjectBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Auth/Google/AuthObjectBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1455">
+              <caret line="97" column="86" selection-start-line="97" selection-start-column="86" selection-end-line="97" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GAuth.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/GAuth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,46 +157,53 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>displ</find>
-      <find>readOnScroll</find>
-      <find>load</find>
-      <find>readOnscroll</find>
-      <find>scrolled</find>
-      <find>500</find>
-      <find>200</find>
-      <find>hideb</find>
-      <find>stop</find>
-      <find>downvote-numb</find>
-      <find>window</find>
-      <find>(window).click</find>
-      <find>.issue .btn</find>
-      <find>issue-deta</find>
-      <find>.issue-mai</find>
-      <find>down</find>
-      <find>hideBox</find>
-      <find>issue-popup</find>
-      <find>hidebo</find>
-      <find>form</find>
-      <find>reverse</find>
-      <find>descrip</find>
-      <find>body</find>
-      <find>.issue .downvo</find>
-      <find>create-issue-popup-assigned-to</find>
-      <find>overflow</find>
-      <find>#issue-details-popup</find>
-      <find>display</find>
-      <find>popup</find>
-      <find>Kart</find>
+      <find>html(&quot;&quot;)</find>
+      <find>header-</find>
+      <find>issue-main</find>
+      <find>.issue-main</find>
+      <find>sortbo</find>
+      <find>blac</find>
+      <find>sort-bo</find>
+      <find>forEa</find>
+      <find>create-issue-popup-ass</find>
+      <find>sort-b</find>
+      <find>createI</find>
+      <find>getBatchWrite()</find>
+      <find>getIssueDAOService()</find>
+      <find>ObjectifyWorker</find>
+      <find>ObjectifyWorker.getofy()</find>
+      <find>ObjectifyService.ofy()</find>
+      <find>creat</find>
+      <find>post</find>
+      <find>requestBo</find>
+      <find>GET</find>
+      <find>/</find>
+      <find>read</find>
+      <find>openiss</find>
+      <find>closeissue</find>
+      <find>readby</find>
+      <find>required</find>
+      <find>url</find>
+      <find>header</find>
+      <find>img</find>
+      <find>Authreq</find>
     </findStrings>
+    <replaceStrings>
+      <replace>get</replace>
+      <replace>getIssueDAOService()</replace>
+      <replace>issueDAOService</replace>
+      <replace>ObjectifyService.ofy()</replace>
+      <replace>Objectify.ofy()</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../IssueReporter" />
@@ -167,25 +211,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Bootstrapper.java" />
         <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/TagsModel.java" />
         <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/TagsDAO.java" />
         <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/TagsController.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/TagsDAOService.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/IssueController.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/IssueDAO.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/IssueModel.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/IssueDAOService.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/CommentDAO.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/CommentsController.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css" />
         <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssuedetailedStyles.css" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html" />
-        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/viewissuestyles.css" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/WebConfig.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/templates/issuedetail.html" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issuedetail.jsp" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/CommentDAO.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/pom.xml" />
         <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issuedetail.html" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/viewissuestyles.css" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/commentscript.js" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/Plugins/chosen/chosen.css" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/MutabilityTest.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/DocumentsController.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentBuilder.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/IssueModel.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Bootstrapper.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/test/java/BatchWriteTests/BatchWrite.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/test/java/com/example/Springgaejdohello/SpringgaejdohelloApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Jobs/Cron/Cron_BatchWriter.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyWebFilter.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyWorker.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/test/java/BatchWriteTests/BatchWriteTest.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/TagsDAOService.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/IssueDAO.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyConfig.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/SpringgaejdohelloApplication.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/IssueDAOService.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/webapp/WEB-INF/queue.xml" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/BatchWrite.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/AuthRequestObj.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/AuthResponse.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/GenerateState.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/CommentsController.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issues.html" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/webapp/WEB-INF/appengine-web.xml" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/AuthenticationController.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Auth/Google/AuthObject.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/auth.js" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/GAuth.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/Authenticate/Login.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Auth/Google/AuthObjectBuilder.java" />
+        <option value="$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/IssueController.java" />
       </list>
     </option>
   </component>
@@ -222,8 +298,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,7 +347,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Springgaejdohello" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
@@ -282,7 +356,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Springgaejdohello" type="462c0819:PsiDirectoryNode" />
-              <item name="daoInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +366,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Springgaejdohello" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IssueReporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Springgaejdohello" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="Authenticate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
@@ -308,14 +395,53 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IssueReporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IssueReporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IssueReporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bugdog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IssueReporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="shrihari.stark@gmail.com" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="springboot-issuev1" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="springboot-issuev1" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="126208571601" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -325,12 +451,16 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/img" />
+      <recent name="$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js" />
       <recent name="$PROJECT_DIR$/../IssueReporter/Frontend/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../IssueReporter/src/main/webapp/WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,10 +476,38 @@
     </option>
   </component>
   <component name="RunManager" selected="Google App Engine Standard Local Server.Google App Engine Standard Local Server">
+    <configuration name="MutabilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Springgaejdohello.model.MutabilityTest" />
+      <module name="Springgaejdohello" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Springgaejdohello.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Google Stackdriver Debug" type="GCPDebug" factoryName="Google Stackdriver Debug" CloudProjectName="" />
+    <configuration name="All in Springgaejdohello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springgaejdohello" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -392,8 +550,16 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Google App Engine Deployment" type="gcp-app-engine-deploy" factoryName="Google App Engine Deployment" server-name="Google App Engine" />
+    <configuration name="Google App Engine Deployment" type="gcp-app-engine-deploy" factoryName="Google App Engine Deployment" server-name="Google App Engine">
+      <deployment type="maven-build-source" name="Springgaejdohello" project="springboot-issuev1" version="auto">
+        <settings cloudProjectName="springboot-issuev1" deployAllConfigs="true" environment="APP_ENGINE_STANDARD" googleUsername="shrihari.stark@gmail.com" promote="true" stopPreviousVersion="true" version="" />
+      </deployment>
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../IssueReporter/pom.xml" goal="package" />
+      </method>
+    </configuration>
     <configuration name="Google App Engine Standard Local Server" type="gcp-app-engine-local-run" factoryName="Local" APPLICATION_SERVER_NAME="Google App Engine Standard Local Server" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
       <server-settings>
         <artifact>Springgaejdohello:war exploded</artifact>
       </server-settings>
@@ -419,11 +585,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.SpringgaejdohelloApplication" />
-      <item itemvalue="Google Stackdriver Debug.Google Stackdriver Debug" />
       <item itemvalue="Google App Engine Deployment.Google App Engine Deployment" />
       <item itemvalue="Google App Engine Standard Local Server.Google App Engine Standard Local Server" />
+      <item itemvalue="Google Stackdriver Debug.Google Stackdriver Debug" />
+      <item itemvalue="Spring Boot.SpringgaejdohelloApplication" />
+      <item itemvalue="Application.MutabilityTest" />
+      <item itemvalue="JUnit.All in Springgaejdohello" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Springgaejdohello" />
+        <item itemvalue="Application.MutabilityTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -435,60 +609,94 @@
       <workItem from="1527586039439" duration="13525000" />
       <workItem from="1527767209149" duration="23962000" />
       <workItem from="1527863637124" duration="79187000" />
-      <workItem from="1528440466424" duration="61259000" />
+      <workItem from="1528440466424" duration="76372000" />
+      <workItem from="1528940092953" duration="137823000" />
+      <workItem from="1529855928809" duration="48904000" />
+      <workItem from="1531564002809" duration="344000" />
+      <workItem from="1533821142835" duration="3262000" />
+      <workItem from="1533828331577" duration="7916000" />
+      <workItem from="1533875286189" duration="39460000" />
+      <workItem from="1534168172680" duration="10511000" />
+      <workItem from="1534294405248" duration="37105000" />
+      <workItem from="1535530752424" duration="16695000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_Springgaejdohello - 2018.08.13 at 20h 26m 18s.xml">
+      <configuration name="All in Springgaejdohello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Springgaejdohello - 2018.08.13 at 20h 30m 17s.xml">
+      <configuration name="All in Springgaejdohello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Springgaejdohello - 2018.08.13 at 20h 35m 05s.xml">
+      <configuration name="All in Springgaejdohello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Springgaejdohello - 2018.08.13 at 21h 02m 03s.xml">
+      <configuration name="All in Springgaejdohello" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177933000" />
+    <option name="totallyTimeSpent" value="495066000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="23" width="1242" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50166667" side_tool="true" weight="0.32840237" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49916667" weight="0.32988167" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50535333" side_tool="true" weight="0.26333332" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32988167" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32988167" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3106509" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840237" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49916667" weight="0.32988167" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49916667" visible="true" weight="0.3091716" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49916667" weight="0.31804734" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49833333" weight="0.32840237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49464667" visible="true" weight="0.29833335" />
       <window_info anchor="right" id="Bean Validation" order="3" />
-      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Web" order="2" sideWeight="0.50440526" side_tool="true" weight="0.26438698" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988167" />
       <window_info anchor="right" id="Google Cloud Storage" order="3" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32904148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32904148" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32988167" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49916667" weight="0.31804734" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3106509" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3091716" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -497,27 +705,27 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50083333" side_tool="true" weight="0.32988167" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32988167" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32988167" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49464667" visible="true" weight="0.2675" />
       <window_info id="Learn" order="7" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Web" order="8" sideWeight="0.50440526" side_tool="true" weight="0.26438698" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50535333" side_tool="true" weight="0.26333332" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Google Cloud Storage" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988167" />
       <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,300 +734,374 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/WebConfig.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.21/objectify-5.1.21-sources.jar!/com/googlecode/objectify/ObjectifyFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="116" column="62" selection-start-line="116" selection-start-column="62" selection-end-line="116" selection-end-column="62" />
+        <state relative-caret-position="307">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/MvcConfig.java" />
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/templates/issuedetail.html" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.63/appengine-api-1.0-sdk-1.9.63.jar!/com/google/appengine/api/datastore/KeyFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7260">
-          <caret line="484" column="9" lean-forward="true" selection-start-line="484" selection-start-column="9" selection-end-line="484" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issuedetail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssuedetailedStyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/CommentsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/TagsDAOService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/TagsDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/TagsModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="366" column="1" lean-forward="true" selection-start-line="366" selection-start-column="1" selection-end-line="366" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/TagsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="366" lean-forward="true" selection-start-line="366" selection-end-line="366" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/TagsDAOService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="22" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/TagsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5445">
-          <caret line="363" column="16" selection-start-line="363" selection-start-column="16" selection-end-line="363" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Bootstrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyWebFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/PMF.java" />
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/SpringgaejdohelloApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/TagsDAOService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/TagsModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/TagsDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/Frontend/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1464">
-          <caret line="233" lean-forward="true" selection-start-line="233" selection-end-line="233" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/IssueDAOService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/TagsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/IssueController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1051">
-          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/IssueModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/IssueDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="147">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/CommentDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="240">
+          <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="317">
+          <caret line="141" column="41" lean-forward="true" selection-start-line="141" selection-start-column="41" selection-end-line="141" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/viewissuestyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="250" column="19" selection-start-line="250" selection-start-column="19" selection-end-line="250" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issuedetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="105" column="96" selection-start-line="105" selection-start-column="96" selection-end-line="105" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/Plugins/chosen/chosen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="286" column="26" selection-start-line="286" selection-start-column="26" selection-end-line="286" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/MutabilityTest.java" />
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/DocumentsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/CommentModel.java">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Bootstrapper.java" />
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/test/java/com/example/Springgaejdohello/SpringgaejdohelloApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/model/IssueModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="63" column="42" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="42" />
+        <state relative-caret-position="165">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#3332#3333#0" expanded="true" />
+            <element signature="e#3371#3372#0" expanded="true" />
+            <element signature="e#3432#3433#0" expanded="true" />
+            <element signature="e#3488#3489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.6.RELEASE/spring-web-5.0.6.RELEASE-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.21/objectify-5.1.21-sources.jar!/com/googlecode/objectify/ObjectifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/TagsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyWorker.java" />
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/test/java/BatchWriteTests/BatchWriteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/daoInterface/IssueDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/TagsDAOService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyConfig.java" />
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/SpringgaejdohelloApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/CommentDAOService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/webapp/WEB-INF/queue.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/dao/IssueDAOService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="151" column="32" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/BatchWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="57" column="138" selection-start-line="57" selection-start-column="138" selection-end-line="57" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Jobs/Cron/Cron_BatchWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/commentscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6330">
+          <caret line="422" column="5" selection-start-line="422" selection-start-column="5" selection-end-line="422" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/ObjectifyWebFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/GenerateState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issues.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" selection-start-column="4" selection-end-line="78" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/CommentsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="-9">
+          <caret line="106" column="27" selection-start-line="106" selection-start-column="27" selection-end-line="106" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssuedetailedStyles.css">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/webapp/WEB-INF/appengine-web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="114" column="28" selection-start-line="114" selection-start-column="28" selection-end-line="114" selection-end-column="28" />
+        <state relative-caret-position="75">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/viewissuestyles.css">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/AuthRequestObj.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="270">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/AuthResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Auth/Google/AuthObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1380">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="e#2585#2586#0" expanded="true" />
+            <element signature="e#2621#2622#0" expanded="true" />
+            <element signature="e#3989#3990#0" expanded="true" />
+            <element signature="e#4022#4023#0" expanded="true" />
+            <element signature="e#4074#4075#0" expanded="true" />
+            <element signature="e#4118#4119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/issuescript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/IssueStyles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="266">
+          <caret line="224" column="21" selection-start-line="224" selection-start-column="21" selection-end-line="224" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="11" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="255">
+          <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/issuedetail.html">
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/resources/static/js/auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="99" column="57" selection-start-line="99" selection-start-column="57" selection-end-line="99" selection-end-column="57" />
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/AuthenticationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2941#2972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/GAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Utils/Authenticate/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/Service/Auth/Google/AuthObjectBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="86" selection-start-line="97" selection-start-column="86" selection-end-line="97" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IssueReporter/src/main/java/com/example/Springgaejdohello/controller/IssueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1461#1462#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -905,6 +1187,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
